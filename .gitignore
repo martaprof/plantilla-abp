@@ -1,0 +1,13 @@
+# Archivos temporales del sistema
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de editores
+.vscode/
+*.tmp
+*.bak
+
+# Exportaciones locales o borradores
+_borradores/
+_exportaciones/
+
