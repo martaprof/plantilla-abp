@@ -75,4 +75,4 @@ flowchart LR
 
 ## Licencia
 
-#TODO Indicar la licencia del proyecto. Para recursos educativos abiertos se puede considerar una licencia Creative Commons, por ejemplo CC BY o CC BY-SA.
+La licencia Creative Commons elegida se recoge en el archivo [`LICENSE.md`](LICENSE.md). Esta plantilla propone **CC BY-SA 4.0** para favorecer la reutilización, adaptación y mejora compartida de recursos educativos abiertos.

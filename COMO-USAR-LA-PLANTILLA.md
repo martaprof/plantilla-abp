@@ -94,3 +94,11 @@ Antes de subir el repositorio a GitHub, comprueba:
 - que la evaluación está alineada con el currículo;
 - que no se publican datos personales del alumnado sin autorización.
 
+## 5. Recursos de apoyo sobre Git y GitHub Classroom
+
+Para docentes que no hayan trabajado antes con repositorios, pueden consultarse estos recursos:
+
+- [Aspectos básicos de Git](https://docs.github.com/es/get-started/git-basics), documentación de GitHub para configurar y usar Git.
+- [Inicio rápido para GitHub](https://docs.github.com/es/get-started/start-your-journey/hello-world), guía inicial para crear y editar repositorios.
+- [Acerca de GitHub Classroom](https://docs.github.com/es/education/manage-coursework-with-github-classroom/get-started-with-github-classroom/about-github-classroom), introducción a la herramienta para crear clases y tareas digitales.
+- [Teach with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom), guía para docentes sobre aulas, tareas y uso de plantillas.

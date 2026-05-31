@@ -38,4 +38,3 @@ Utiliza este archivo como lista viva de trabajo. Elimina cada tarea cuando esté
 - #TODO Revisar enlaces internos.
 - #TODO Revisar ortografía y formato Markdown.
 - #TODO Comprobar que los README se muestran correctamente en GitHub.
-- #TODO Completar [`LICENSE.md`](LICENSE.md) con la licencia elegida.

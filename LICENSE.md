@@ -1,12 +1,9 @@
 # Licencia
 
-#TODO Indicar la licencia del proyecto.
+Este proyecto se publica bajo la licencia **Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)**.
 
-Para recursos educativos abiertos, se recomienda valorar una licencia Creative Commons. Algunas opciones habituales son:
+Esto significa que se permite copiar, redistribuir, adaptar y transformar el material para cualquier propósito, siempre que se cite la autoría correspondiente y que las obras derivadas se compartan bajo la misma licencia.
 
-- **CC BY:** permite reutilizar y adaptar el material citando la autoría.
-- **CC BY-SA:** permite reutilizar y adaptar el material citando la autoría y compartiendo las adaptaciones con la misma licencia.
-- **CC BY-NC:** permite reutilizar y adaptar el material citando la autoría, sin uso comercial.
+Resumen de la licencia: <https://creativecommons.org/licenses/by-sa/4.0/deed.es>
 
-Antes de publicar materiales de terceros, revisa que sus licencias permiten su reutilización.
-
+Texto legal completo: <https://creativecommons.org/licenses/by-sa/4.0/legalcode.es>
